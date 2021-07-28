@@ -1,0 +1,81 @@
+body{
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    margin: 0;
+}
+body img{
+    width: 100%;
+}
+.half-width img{
+    width: 100%;
+}
+span{
+    font-weight: 900;
+    font-size: 90px; 
+    color: hotpink;
+}
+#hello{
+    font-size: 60px;
+}
+p{
+    color: dimgray;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-color: hotpink;
+    background-color: hotpink;
+    color: white;
+    border-radius: 5px;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+div{
+    width:40%;
+    float:left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+.top-section{
+    background-image: url("personal-website/header-bg.png");
+    background-position:left;
+    background-repeat: no-repeat;
+}
+#dream{
+    width: 80%;
+}
+.middle-section{
+    background-image: url("personal-website/biography-bg.png");
+    background-position: left;
+    background-repeat: no-repeat;
+    
+}
+.header-work{
+    font-size: 30px;
+    text-align: center;
+}
+.work-div{
+    height: 500px;
+    padding-bottom: 0px;
+    width:25%;
+    float: left;
+}
+.work-section{
+    background-image:url("personal-website/latest-work-bg.png") ;
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-bottom: 0px;
+}
+.last-section{
+    text-align: center;
+    padding-bottom: 0px;
+}
+#ceo-talk{
+    font-size: medium;
+    color: black;
+}
+footer{
+    text-align: center;
+    color: dimgray;
+}
